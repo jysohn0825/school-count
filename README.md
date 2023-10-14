@@ -1,0 +1,2 @@
+# school-count
+count school
